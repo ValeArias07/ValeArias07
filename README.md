@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Valentina Arias</h1>
-<h3 align="center">Telecommunications Engineering student at Icesi University, lover of Criptography and an amateur Designer </h3>
+<h3 align="center">Hi 👋, I'm Valentina Arias</h3>
+<h4 align="center">Telecommunications Engineering student at Icesi University, lover of Criptography and an amateur Designer </h4>
 
 - 🌱 I’m currently learning **Python**, also, i pretty interest in learn about Web Development.
-
-- 👨‍💻 All of my projects are available at [https://github.com/ValeArias07?tab=repositories](https://github.com/ValeArias07?tab=repositories)
-
+- ❤️ Check one of my first web projects here: https://nekotask.herokuapp.com/
 - ⚡ Fun fact **I´m a chicken lover**
 
-- ❤️ Check one of my first web projects here: https://nekotask.herokuapp.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
