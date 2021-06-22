@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Valentina Arias</h3>
-<h4 align="center">Telecommunications Engineering student at Icesi University, lover of Criptography and an amateur Designer </h4>
+<h4 align="center">Telecommunications Engineering student at Icesi University, Criptography´s fan and an amateur Designer </h4>
 
 - 🌱 I’m currently learning **Python**, also, i pretty interest in learn about Web Development.
 - ❤️ Check one of my first web projects here: https://nekotask.herokuapp.com/
