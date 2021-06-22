@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValeArias07?tab=repositories](https://github.com/ValeArias07?tab=repositories)
 
-- 💬 Ask me about **Java and i will pretty able to answer you**
+- 💬 Ask me about **Java**
 
 - ⚡ Fun fact **I´m a chicken lover**
 
