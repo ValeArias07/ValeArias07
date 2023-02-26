@@ -1,9 +1,9 @@
 <h3 align="center">Hi 👋, I'm Valentina Arias</h3>
-<h4 align="center">Telecommunications Engineering student at Icesi University, Criptography´s fan and an amateur Designer </h4>
+<h4 align="center">Telecommunications Engineering student at Icesi University, Criptography´s fan, Appasionate Developer and a DevOps Eng in Training</h4>
 
-- 🌱 I’m currently learning **Python**, also, i pretty interest in learn about Web Development.
-- ❤️ Check one of my first web projects here: https://nekotask.herokuapp.com/
-- ⚡ Fun fact **I´m a chicken lover**
+- ❤️ Check one of my first Web Projects here: https://nekotask.herokuapp.com/
+- 🌱 DevOps Student 
+- ⚡ **Chicken lover**
 
 
 <h3 align="left">Connect with me:</h3>
