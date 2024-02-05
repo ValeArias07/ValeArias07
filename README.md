@@ -7,8 +7,6 @@ Thanks for visiting my personal GitHub, you can check my most important projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=valearias07&repo=todo-for-cicd)](https://github.com/valearias07/todo-for-cicd)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=valearias07&repo=U-market)](https://github.com/valearias07/U-market)
-<!---->[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=valearias07&repo=CoffeeTec-Android)](https://github.com/valearias07/CoffeeTec-Android)
-<!---->[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=valearias07&repo=SafeChat)](https://github.com/valearias07/SafeChat)
 
 <h3 align="left">Connect with me! </h3>
 <p align="left">
