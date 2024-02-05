@@ -1,6 +1,11 @@
 <h3 align="center">Hi 👋</h3>
-<h3 align="center">I'm Valentina Arias Parra </h3>
-<h4 align="center">Passionate DevOps Engineer</h4>
+<h3 align="center">I'm Valentina Arias Parra :woman_technologist:	</h3>
+<h4 align="center">Passionate DevOps Engineer :infinity: </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,jenkins,terraform,aws,prometheus" />
+  </a>
+</p>
 
 
 Thanks for visiting my personal GitHub, you can check my most important projects here: 
