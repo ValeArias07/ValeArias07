@@ -3,7 +3,7 @@
 <h4 align="center">Passionate DevOps Engineer :infinity: </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,jenkins,terraform,aws,prometheus" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,terraform,aws,prometheus,grafana" />
   </a>
 </p>
 
