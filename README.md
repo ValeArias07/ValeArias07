@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋</h3>
 <h3 align="center">I'm Valentina 🌸 :woman_technologist:	</h3>
-<h4 align="center">Passionate DevOps Engineer :infinity: </h4>
+<h4 align="center">DevOps Engineer :infinity: </h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,docker,jenkins,terraform,aws,grafana" />
