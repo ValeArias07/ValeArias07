@@ -1,14 +1,14 @@
 <h3 align="center">Hi 👋</h3>
-<h3 align="center">I'm Valentina Arias Parra :woman_technologist:	</h3>
+<h3 align="center">I'm Valentina 🌸 :woman_technologist:	</h3>
 <h4 align="center">Passionate DevOps Engineer :infinity: </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,terraform,aws,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,terraform,aws,splunk,grafana" />
   </a>
 </p>
 
 
-Thanks for visiting my personal GitHub, you can check my most important projects here: 
+Thanks for visiting my personal GitHub, you can check some of my most important projects here: 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=valearias07&repo=todo-for-cicd)](https://github.com/valearias07/todo-for-cicd)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=valearias07&repo=U-market)](https://github.com/valearias07/U-market)
